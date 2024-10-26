@@ -208,12 +208,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -241,3 +235,6 @@ litellm_uuid.txt
 file.txt
 numbers.txt
 poetry.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
